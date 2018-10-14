@@ -7,15 +7,15 @@ As chaves publicas e pivadas devem estar neste aqui:
 
 # CocoaPods
 
-    No projeto estou usando o cocoapods como gerenciador de dependências.
-    Como instalar pode ser encontrado aqui: [Cocoapods](https://cocoapods.org)
+No projeto estou usando o cocoapods como gerenciador de dependências.
+Como instalar pode ser encontrado aqui: [Cocoapods](https://cocoapods.org)
 
 # Biblioteca de terceiros usadas
 
 ## EasyPeasy
-    Utilizei para ajudar a ajustar o autolayout pelo código mais fácil e rápido
+Utilizei para ajudar a ajustar o autolayout pelo código mais fácil e rápido
 
 ## RxSwift
-    Utilizei ele para montar uma estrutura mvvm reativa usando os recurcos do RxSwift
+Utilizei ele para montar uma estrutura mvvm reativa usando os recurcos do RxSwift
 
     
