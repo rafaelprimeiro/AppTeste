@@ -17,5 +17,3 @@ Utilizei para ajudar a ajustar o autolayout pelo código mais fácil e rápido
 
 ## RxSwift
 Utilizei ele para montar uma estrutura mvvm reativa usando os recurcos do RxSwift
-
-    
