@@ -22,7 +22,7 @@ class CharacterTableViewCell: UITableViewCell {
             }
             if (lblTitle == nil) { return }
             lblTitle.text = character.name
-            imgCharacter.loadImageWithUrl(string: "\(character.thumbnail.path).\(character.thumbnail.thumbnailExtension.rawValue)")
+            imgCharacter.loadImageWithUrl(string: "\(character.thumbnail.path)/standard_small.\(character.thumbnail.thumbnailExtension.rawValue)")
         }
     }
 
